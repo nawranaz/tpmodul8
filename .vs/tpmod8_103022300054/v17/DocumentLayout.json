@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester4\\ADPL\\tp\\tpmod8_103022300054\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B218884A-2164-48BD-834C-531A5093581C}|tpmod8_103022300054\\tpmod8_103022300054.csproj|d:\\semester4\\adpl\\tp\\tpmod8_103022300054\\tpmod8_103022300054\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B218884A-2164-48BD-834C-531A5093581C}|tpmod8_103022300054\\tpmod8_103022300054.csproj|solutionrelative:tpmod8_103022300054\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Semester4\\ADPL\\tp\\tpmod8_103022300054\\tpmod8_103022300054\\Program.cs",
+              "RelativeDocumentMoniker": "tpmod8_103022300054\\Program.cs",
+              "ToolTip": "D:\\Semester4\\ADPL\\tp\\tpmod8_103022300054\\tpmod8_103022300054\\Program.cs",
+              "RelativeToolTip": "tpmod8_103022300054\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:02:16.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
