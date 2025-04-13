@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\Semester4\\ADPL\\tp\\tpmod8_103022300054\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B218884A-2164-48BD-834C-531A5093581C}|tpmod8_103022300054\\tpmod8_103022300054.csproj|d:\\semester4\\adpl\\tp\\tpmod8_103022300054\\tpmod8_103022300054\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B218884A-2164-48BD-834C-531A5093581C}|tpmod8_103022300054\\tpmod8_103022300054.csproj|solutionrelative:tpmod8_103022300054\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B218884A-2164-48BD-834C-531A5093581C}|tpmod8_103022300054\\tpmod8_103022300054.csproj|d:\\semester4\\adpl\\tp\\tpmod8_103022300054\\tpmod8_103022300054\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B218884A-2164-48BD-834C-531A5093581C}|tpmod8_103022300054\\tpmod8_103022300054.csproj|solutionrelative:tpmod8_103022300054\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B218884A-2164-48BD-834C-531A5093581C}|tpmod8_103022300054\\tpmod8_103022300054.csproj|d:\\semester4\\adpl\\tp\\tpmod8_103022300054\\tpmod8_103022300054\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B218884A-2164-48BD-834C-531A5093581C}|tpmod8_103022300054\\tpmod8_103022300054.csproj|solutionrelative:tpmod8_103022300054\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B218884A-2164-48BD-834C-531A5093581C}|tpmod8_103022300054\\tpmod8_103022300054.csproj|d:\\semester4\\adpl\\tp\\tpmod8_103022300054\\tpmod8_103022300054\\tpmod8_103022300054.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B218884A-2164-48BD-834C-531A5093581C}|tpmod8_103022300054\\tpmod8_103022300054.csproj|solutionrelative:tpmod8_103022300054\\tpmod8_103022300054.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B218884A-2164-48BD-834C-531A5093581C}|tpmod8_103022300054\\tpmod8_103022300054.csproj|d:\\semester4\\adpl\\tp\\tpmod8_103022300054\\tpmod8_103022300054\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B218884A-2164-48BD-834C-531A5093581C}|tpmod8_103022300054\\tpmod8_103022300054.csproj|solutionrelative:tpmod8_103022300054\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +35,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "D:\\Semester4\\ADPL\\tp\\tpmod8_103022300054\\tpmod8_103022300054\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "tpmod8_103022300054\\CovidConfig.cs",
+              "ToolTip": "D:\\Semester4\\ADPL\\tp\\tpmod8_103022300054\\tpmod8_103022300054\\CovidConfig.cs",
+              "RelativeToolTip": "tpmod8_103022300054\\CovidConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:16:46.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Semester4\\ADPL\\tp\\tpmod8_103022300054\\tpmod8_103022300054\\Program.cs",
               "RelativeDocumentMoniker": "tpmod8_103022300054\\Program.cs",
               "ToolTip": "D:\\Semester4\\ADPL\\tp\\tpmod8_103022300054\\tpmod8_103022300054\\Program.cs",
               "RelativeToolTip": "tpmod8_103022300054\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T10:02:16.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T10:02:16.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "covid_config.json",
+              "DocumentMoniker": "D:\\Semester4\\ADPL\\tp\\tpmod8_103022300054\\tpmod8_103022300054\\covid_config.json",
+              "RelativeDocumentMoniker": "tpmod8_103022300054\\covid_config.json",
+              "ToolTip": "D:\\Semester4\\ADPL\\tp\\tpmod8_103022300054\\tpmod8_103022300054\\covid_config.json",
+              "RelativeToolTip": "tpmod8_103022300054\\covid_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T10:17:45.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tpmod8_103022300054.csproj",
+              "DocumentMoniker": "D:\\Semester4\\ADPL\\tp\\tpmod8_103022300054\\tpmod8_103022300054\\tpmod8_103022300054.csproj",
+              "RelativeDocumentMoniker": "tpmod8_103022300054\\tpmod8_103022300054.csproj",
+              "ToolTip": "D:\\Semester4\\ADPL\\tp\\tpmod8_103022300054\\tpmod8_103022300054\\tpmod8_103022300054.csproj",
+              "RelativeToolTip": "tpmod8_103022300054\\tpmod8_103022300054.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-13T10:16:13.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Semester4\\ADPL\\tp\\tpmod8_103022300054\\tpmod8_103022300054\\.gitignore",
+              "RelativeDocumentMoniker": "tpmod8_103022300054\\.gitignore",
+              "ToolTip": "D:\\Semester4\\ADPL\\tp\\tpmod8_103022300054\\tpmod8_103022300054\\.gitignore",
+              "RelativeToolTip": "tpmod8_103022300054\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-13T10:07:24.815Z"
             }
           ]
         }
